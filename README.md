@@ -29,8 +29,3 @@
 </body>
 </html>
 
-<body style="display: none;">
-  <div class="container-lg px-3 my-5 markdown-body">
-    <h1><a href="https://1133.lol/">Lyse1133</a></h1>
-  </div>
-</body>
