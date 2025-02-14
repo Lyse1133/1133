@@ -24,3 +24,6 @@
 </body>
 </html>
 
+<div class="container-lg px-3 my-5 markdown-body" style="display: none;">
+  <!-- Content inside the div will be hidden -->
+</div>
